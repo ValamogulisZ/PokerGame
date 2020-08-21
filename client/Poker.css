@@ -1,0 +1,37 @@
+.background{
+  color: white;
+}
+.desk{
+  background-color: green;
+  height: 500px;
+  width: 800px;
+  border: 2px black solid;
+  margin-left: 200px;
+  margin-top: 20px;;
+}
+.bar{
+  height: 200px;
+  width: 800px;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.cardBack{
+  float: left;
+}
+.info{
+  float:left;
+  background-color: black;
+  color: white;
+  height: 160px;
+  width: 300px;
+  margin-left: 50px;
+  text-align: center;
+}
+.handCard{
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.card{
+  height: 150px;
+  width: 100px;
+}
